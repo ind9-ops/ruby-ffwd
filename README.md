@@ -1,6 +1,6 @@
-# Ansible Role: Ruby
+# Ansible Role: ruby-ffwd
 
-[![Build Status](https://travis-ci.org/indix/ansible-ruby-ffwd.svg?branch=master)
+[![BuildStatus](https://travis-ci.org/indix/ansible-ruby-ffwd.svg?branch=master)](https://travis-ci.org/indix/ansible-ruby-ffwd)
 
 Installs Ruby and bundler gem on Linux.
 
@@ -56,4 +56,4 @@ MIT / BSD
 
 ## Author Information
 
-This role was created in 2014 by [Jeff Geerling](http://jeffgeerling.com/), author of [Ansible for DevOps](http://ansiblefordevops.com/).
+This role is based on the role created in 2014 by [Jeff Geerling](http://jeffgeerling.com/), author of [Ansible for DevOps](http://ansiblefordevops.com/).
